@@ -11,9 +11,10 @@
     "name": "tigawanna",
     "url": "https://twitter.com/lettherebecode_"
   },
+  "homepage": "https://shadcn-ui-fanpage.vercel.app/guides/plugin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tigawanna/shadcn-ui-fanedition",
+    "url": "https://github.com/tigawanna/shadcn-fe-tw",
     "directory": "packages/tw"
   },
   "main": "./dist/index.js",
